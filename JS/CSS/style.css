@@ -1,0 +1,27 @@
+body{
+    background-color: gray!important;
+}
+
+tr {
+    font-weight: bold ;
+    font-size: 20px;
+    
+}
+
+span{
+    font-weight: normal;
+    color: white;
+}
+
+.response{
+    font-weight: normal;
+    color: white;
+    font-size: 15px;
+}
+
+
+
+
+.block{
+    display: none;
+}
